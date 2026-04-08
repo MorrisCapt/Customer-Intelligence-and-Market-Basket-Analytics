@@ -1,0 +1,16 @@
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+openpyxl>=3.0.10
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Market Basket Analysis
+mlxtend>=0.21.0
+
+# Jupyter environment
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.0.0
