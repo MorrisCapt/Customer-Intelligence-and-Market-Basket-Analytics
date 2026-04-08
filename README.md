@@ -1,10 +1,10 @@
-# 🚗🛒 Customer Intelligence & Market Basket Analytics
+# Customer Intelligence & Market Basket Analytics
 
 > A dual-domain data science project combining **RFM-based Customer Segmentation** for an automobile parts manufacturer and **Market Basket Analysis** for a grocery retailer — delivering actionable insights and targeted marketing strategies from raw transactional data.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Repository Structure](#repository-structure)
@@ -114,10 +114,10 @@ An automobile parts manufacturing company collected 3 years of transaction data 
 
 | Segment | RFM Total Score | Characteristics |
 |---------|----------------|-----------------|
-| 🏆 **Best Customers** | ≥ 10 | Recent, frequent, high spenders |
-| 💙 **Loyal Customers** | 7–9 | Regular buyers with moderate spend |
-| ⚠️ **At Risk / Verge of Churning** | 5–6 | Previously active, now going quiet |
-| 🔴 **Lost Customers** | ≤ 4 | Inactive, infrequent, low spend |
+|  **Best Customers** | ≥ 10 | Recent, frequent, high spenders |
+|  **Loyal Customers** | 7–9 | Regular buyers with moderate spend |
+|  **At Risk / Verge of Churning** | 5–6 | Previously active, now going quiet |
+|  **Lost Customers** | ≤ 4 | Inactive, infrequent, low spend |
 
 ---
 
@@ -261,12 +261,12 @@ Then open either notebook from the `notebooks/` folder:
 
 This project follows the business report guidelines outlined by the programme:
 
-- ✅ No code in the business report — code is contained exclusively in Jupyter Notebooks
-- ✅ All charts are annotated with titles, axis labels, and legends
-- ✅ Only analytically meaningful visualisations are included
-- ✅ All claims are backed by numerical evidence from the data
-- ✅ Technical terms (RFM, Apriori, Support, Lift, etc.) are explained in plain language
-- ✅ Report sections follow a logical narrative from problem → EDA → modelling → insights → recommendations
+-  No code in the business report — code is contained exclusively in Jupyter Notebooks
+-  All charts are annotated with titles, axis labels, and legends
+-  Only analytically meaningful visualisations are included
+-  All claims are backed by numerical evidence from the data
+-  Technical terms (RFM, Apriori, Support, Lift, etc.) are explained in plain language
+-  Report sections follow a logical narrative from problem → EDA → modelling → insights → recommendations
 
 ---
 
